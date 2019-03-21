@@ -1,4 +1,4 @@
-# Orientation-Tracking-Using-Unscented-Kalman-Filter
+# EKF-SLAM
 
 In this Project, I have implemented a full SLAM system based on an Extended Kalman Filter. The data used was taken from a pickup truck equipped with a wheel encoder, GPS, and LIDAR scanner. The dataset consists of this truck making several loops around a park with trees. 
 
